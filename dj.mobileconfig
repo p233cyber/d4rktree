@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>PayloadType</key>
+        <string>com.apple.webClip.managed</string>
+        <key>PayloadIdentifier</key>
+        <string>com.ummmonkey.d4rktree.app</string>
+        <key>PayloadUUID</key>
+        <string>153ceaae-28cc-447a-b8c1-2a70bc953b4b</string>
+        <key>Label</key>
+        <string>d4rktree</string>
+        <key>PayloadDescription</key>
+        <string>d4rktree jailbreak</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>Precomposed</key>
+        <false/>
+        <key>IsRemovable</key>
+        <true/>
+        <key>URL</key>
+        <string>https://66afbe5943ec4dd32df6f626--super-hamster-6c82b9.netlify.app/</string>
+        <key>FullScreen</key>
+        <true/>
+        <key>Icon</key>
+        <data>iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAEOUExURQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHFRhb0AAABZdFJOUwDM+gnq6/b7myRZ0w6MyyUP7J1a9fie3wISyid/5BeQ8AaDIVgwG7+fMeFwDfSZCCOP75qEnCbob0Ii4hPpHL7S3fGHKPzAFMWR0dRKlvkKBIuKhU+3ydkFQPa6kgAAAsNJREFUeNrtmnlv4jAQxZ2QxCFAuAqUu1AKFAo9tt373m33vs/5/l9kkVballBKbI8drTTvv6BI7wdknOcZMyatg4EfFjkvhv4gy8xrdz6Df5rNdw3b/+5XYEmVfs+k//AnrKgxNOefnsA1mqRN+XdqcK1qHTP+2yNYo9G2EYAprNVdLYbZwLfcRb1bfrmwuKzvrAc4qS9uKJR9a7E+uJYfFBDs8yXv0sAbv2QtuEEt1qxevb96W9E+lbOXHfib9k0A7S5f/sDOpZTqLQPKyihU574DCHL2pb8/iv+CQPI3SGUASRm55yAHaMpJ1Z+NB2DnJQBKgKiSuH/BwwTYEs9MZUBVIAzg4wL4wgAWLkAoDODiArjCABwXgP9/AMWk/4LEH8LEyzDxhQh3KfYktq9jTICqxNuwiViIvCkTCLp4AF0J+3qrjQfQbtVF93/TE9wq2JkK7Rs7I0DXhcDeOV0DDarFTufDCWjRg8fx/HsN0KRGvD5SH7TpNFb/raIPoHI/BsAcNOpWjP7nTCdAjP3BALQqMB1ExIOJpRfAMh1GoypuBDjXC8BN7wfEAVy9AG7SD2Ej6TLcvBQGegEGm1vTntal+MBwc0pmh4bZnovqY6xUltMH8NVwizaqp4dmm9QrTeujuLF4TwuBs2d2UKE2uEh9Qa4F8dFNurSF2J+QGl5lAz90ld/O3LXOyirjO0UCzlSlmA9cZYDQdH8QOR/4ygCK+aCsPrpWygcewvhaKR+MMcbnCmui3UQAUMkHxygHGOTzwbtPSIdmJN/OTp4hSS4fyI/tcfLB2yOGqJWjHCsnWSIfVF4cMlzlz67kA+f0YRTgVf/O5cXzDzoOt/3NB/zR6+77HmNRAMY+3/v245fjPnty/D3F9GsVwLAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIAAvgDyBWoBZFuDX3AAAAAElFTkSuQmCC</data>
+      </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>d4rktree jailbreak for ios 16.2 - 17.5.1</string>
+    <key>PayloadDisplayName</key>
+    <string>d4rktree jailbreak</string>
+    <key>PayloadIdentifier</key>
+    <string>com.ummmonkey.d4rktree</string>
+    <key>PayloadOrganization</key>
+    <string>p223cyber &amp; ummmonkey</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>ce0f0eb9-6062-4db7-8d7d-22d9468886ff</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+  </dict>
+</plist>
